@@ -7,4 +7,4 @@ Just Execute main.py -> config.py -> scrape.py -> clean.py
 For Singapore Companies only,  
 Execute singaporeMain.py -> config.p-> scrape.py -> clean.py
 
-Note: I would strongly recommend to view ipynb files in https://nbviewer.jupyter.org as the github rendering are not as reliable.
+Note: I would strongly recommend to view ipynb files in https://nbviewer.jupyter.org as the github rendering may failed at times.
