@@ -1,5 +1,5 @@
-# web_scrape_angellist_companies  
-* Web scraping Angellist companies and data visualization  
+# Web Scraping Angellist Companies
+* Web scraping Angellist companies and Data Visualization with Selenium Webdriver
 * Vsualization Jupyter Notebook - Angellist_Data_visualization.ipynb in folder Data_Visualization
 
 AngellistTop 20 Market Singapore
